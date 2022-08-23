@@ -3943,7 +3943,7 @@ textarea.form-control-lg {
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
-  color: #6bb8da;
+  color: #f1c40f;
   text-decoration: none;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
 }
@@ -3953,10 +3953,10 @@ textarea.form-control-lg {
   }
 }
 .nav-link:hover, .nav-link:focus {
-  color: #6bb8da;
+  color: #f1c40f;
 }
 .nav-link.disabled {
-  color: #6bb8da;
+  color: #f1c40f;
   pointer-events: none;
   cursor: default;
 }
@@ -4000,7 +4000,7 @@ textarea.form-control-lg {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #6bb8da;
+  background-color: #f1c40f;
 }
 
 .nav-fill > .nav-link,
@@ -11375,7 +11375,7 @@ p {
   letter-spacing: 0.0625em;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #6bb8da;
+  color: #f1c40f;
 }
 
 @media (min-width: 992px) {
